@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[147],{2147:function(e,p,s){e.exports=s.p+"static/media/poison.5b352b605ab2b6ab161c.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[540],{540:function(e,p,s){e.exports=s.p+"static/media/steel.3a35d616520093bfb7c0.jpg"}}]);

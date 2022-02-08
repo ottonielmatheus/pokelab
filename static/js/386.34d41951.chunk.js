@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[386],{8386:function(e,p,s){e.exports=s.p+"static/media/fighting.781e480efe173d5d98df.jpg"}}]);

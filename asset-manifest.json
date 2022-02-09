@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pokelab/static/css/main.812cfee0.css",
+    "main.css": "/pokelab/static/css/main.4cfaa440.css",
     "main.js": "/pokelab/static/js/main.8957a45c.js",
     "static/js/335.705f2421.chunk.js": "/pokelab/static/js/335.705f2421.chunk.js",
     "static/js/640.6e23c541.chunk.js": "/pokelab/static/js/640.6e23c541.chunk.js",
@@ -57,11 +57,11 @@
     "static/media/dark.jpg": "/pokelab/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokelab/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokelab/index.html",
-    "main.812cfee0.css.map": "/pokelab/static/css/main.812cfee0.css.map",
+    "main.4cfaa440.css.map": "/pokelab/static/css/main.4cfaa440.css.map",
     "main.8957a45c.js.map": "/pokelab/static/js/main.8957a45c.js.map"
   },
   "entrypoints": [
-    "static/css/main.812cfee0.css",
+    "static/css/main.4cfaa440.css",
     "static/js/main.8957a45c.js"
   ]
 }

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5595],{5595:function(e,t,a){e.exports=a.p+"static/media/forest-habitat.878ffcc4aa3d4edc109e.jpg"}}]);

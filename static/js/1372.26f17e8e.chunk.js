@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[1372],{1372:function(e,a,p){e.exports=p.p+"static/media/rare-habitat.be69926ab22874418d13.jpg"}}]);

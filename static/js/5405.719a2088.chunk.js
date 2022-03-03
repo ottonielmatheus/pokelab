@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[5405],{5405:function(e,p,t){e.exports=t.p+"static/media/unknowed-habitat.097c5b29e45ef501d340.jpg"}}]);

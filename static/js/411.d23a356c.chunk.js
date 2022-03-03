@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[411],{7411:function(e,p,s){e.exports=s.p+"static/media/fairy.0b113e09b7596452bb12.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[7332],{7332:function(e,t,a){e.exports=a.p+"static/media/mountain-habitat.e67f2fbc6a3e91c82db4.jpg"}}]);

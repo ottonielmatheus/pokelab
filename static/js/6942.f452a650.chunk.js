@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[6942],{6942:function(e,a,t){e.exports=t.p+"static/media/1-waters-edge-habitat.ff592dd9bbba54d487a8.jpg"}}]);

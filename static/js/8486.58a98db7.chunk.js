@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[8486],{8486:function(e,c,t){e.exports=t.p+"static/media/rough-terrain-habitat.09c6fd1bc22dc3cbd818.jpg"}}]);

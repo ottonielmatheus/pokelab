@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokelab/static/css/main.be394840.css",
-    "main.js": "/pokelab/static/js/main.618c3c8f.js",
+    "main.css": "/pokelab/static/css/main.7c914f5a.css",
+    "main.js": "/pokelab/static/js/main.52d818f7.js",
     "static/js/8335.877435c2.chunk.js": "/pokelab/static/js/8335.877435c2.chunk.js",
     "static/js/4640.8734061a.chunk.js": "/pokelab/static/js/4640.8734061a.chunk.js",
     "static/js/9102.92701e7d.chunk.js": "/pokelab/static/js/9102.92701e7d.chunk.js",
@@ -66,6 +66,7 @@
     "static/js/6247.86f49a1e.chunk.js": "/pokelab/static/js/6247.86f49a1e.chunk.js",
     "static/js/3805.de3569f7.chunk.js": "/pokelab/static/js/3805.de3569f7.chunk.js",
     "static/js/8530.cd0e5dc2.chunk.js": "/pokelab/static/js/8530.cd0e5dc2.chunk.js",
+    "static/js/1667.29881a15.chunk.js": "/pokelab/static/js/1667.29881a15.chunk.js",
     "static/js/6086.6ed924a5.chunk.js": "/pokelab/static/js/6086.6ed924a5.chunk.js",
     "static/media/waters-edge-habitat.jpg": "/pokelab/static/media/waters-edge-habitat.4f3faa224210ffc689b5.jpg",
     "static/media/mountain-habitat.jpg": "/pokelab/static/media/mountain-habitat.e67f2fbc6a3e91c82db4.jpg",
@@ -99,11 +100,11 @@
     "static/media/dark.jpg": "/pokelab/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokelab/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokelab/index.html",
-    "main.be394840.css.map": "/pokelab/static/css/main.be394840.css.map",
-    "main.618c3c8f.js.map": "/pokelab/static/js/main.618c3c8f.js.map"
+    "main.7c914f5a.css.map": "/pokelab/static/css/main.7c914f5a.css.map",
+    "main.52d818f7.js.map": "/pokelab/static/js/main.52d818f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.be394840.css",
-    "static/js/main.618c3c8f.js"
+    "static/css/main.7c914f5a.css",
+    "static/js/main.52d818f7.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokespec/static/css/main.650a28ba.css",
-    "main.js": "/pokespec/static/js/main.da35e354.js",
+    "main.css": "/pokespec/static/css/main.4c926f6d.css",
+    "main.js": "/pokespec/static/js/main.fb91c96f.js",
     "static/js/8335.877435c2.chunk.js": "/pokespec/static/js/8335.877435c2.chunk.js",
     "static/js/4640.8734061a.chunk.js": "/pokespec/static/js/4640.8734061a.chunk.js",
     "static/js/9102.92701e7d.chunk.js": "/pokespec/static/js/9102.92701e7d.chunk.js",
@@ -72,6 +72,7 @@
     "static/media/mountain-habitat.jpg": "/pokespec/static/media/mountain-habitat.e67f2fbc6a3e91c82db4.jpg",
     "static/media/rough-terrain-habitat.jpg": "/pokespec/static/media/rough-terrain-habitat.09c6fd1bc22dc3cbd818.jpg",
     "static/media/sea-habitat.jpg": "/pokespec/static/media/sea-habitat.163dc9e2e8a57add317d.jpg",
+    "static/media/ash-about.png": "/pokespec/static/media/ash-about.da9ca4aa6f00d3872e4d.png",
     "static/media/forest-habitat.jpg": "/pokespec/static/media/forest-habitat.878ffcc4aa3d4edc109e.jpg",
     "static/media/rare-habitat.jpg": "/pokespec/static/media/rare-habitat.be69926ab22874418d13.jpg",
     "static/media/unknowed-habitat.jpg": "/pokespec/static/media/unknowed-habitat.097c5b29e45ef501d340.jpg",
@@ -83,6 +84,7 @@
     "static/media/not-found.png": "/pokespec/static/media/not-found.482f932413777c94f332.png",
     "static/media/pokemon-logo.png": "/pokespec/static/media/pokemon-logo.9dc16171f2cf9c91f9c2.png",
     "static/media/legendary.png": "/pokespec/static/media/legendary.675608e448819d60d8e0.png",
+    "static/media/nintendo-logo.png": "/pokespec/static/media/nintendo-logo.8abef6518ec066f9a26e.png",
     "static/media/psychic.jpg": "/pokespec/static/media/psychic.609c2f1f6b47df671164.jpg",
     "static/media/fairy.jpg": "/pokespec/static/media/fairy.0b113e09b7596452bb12.jpg",
     "static/media/rock.jpg": "/pokespec/static/media/rock.57cc9f73e9ee9e3ac558.jpg",
@@ -91,6 +93,7 @@
     "static/media/bug.jpg": "/pokespec/static/media/bug.8e3e821b3139a3e7576f.jpg",
     "static/media/water.jpg": "/pokespec/static/media/water.8cdcd2fffd5326357ac2.jpg",
     "static/media/normal.jpg": "/pokespec/static/media/normal.9ec833ab366a840555f2.jpg",
+    "static/media/pokeapi-logo.png": "/pokespec/static/media/pokeapi-logo.888baca4809420be1126.png",
     "static/media/fire.jpg": "/pokespec/static/media/fire.b3210bb6b232d6fdc283.jpg",
     "static/media/steel.jpg": "/pokespec/static/media/steel.3a35d616520093bfb7c0.jpg",
     "static/media/ground.jpg": "/pokespec/static/media/ground.a99a25ee765516c1cbc3.jpg",
@@ -100,11 +103,11 @@
     "static/media/dark.jpg": "/pokespec/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokespec/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokespec/index.html",
-    "main.650a28ba.css.map": "/pokespec/static/css/main.650a28ba.css.map",
-    "main.da35e354.js.map": "/pokespec/static/js/main.da35e354.js.map"
+    "main.4c926f6d.css.map": "/pokespec/static/css/main.4c926f6d.css.map",
+    "main.fb91c96f.js.map": "/pokespec/static/js/main.fb91c96f.js.map"
   },
   "entrypoints": [
-    "static/css/main.650a28ba.css",
-    "static/js/main.da35e354.js"
+    "static/css/main.4c926f6d.css",
+    "static/js/main.fb91c96f.js"
   ]
 }

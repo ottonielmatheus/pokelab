@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[4409],{4409:function(e,p,c){e.exports=c.p+"static/media/alola.cb4ff02ed372fcd16380.png"}}]);

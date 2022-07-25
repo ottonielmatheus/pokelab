@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpokedex=self.webpackChunkpokedex||[]).push([[2586],{2586:function(e,p,a){e.exports=a.p+"static/media/galar.22db2735fda9303200c6.png"}}]);

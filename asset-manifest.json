@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokespec/static/css/main.ce9ac750.css",
-    "main.js": "/pokespec/static/js/main.eaf340c3.js",
+    "main.css": "/pokespec/static/css/main.99d218cb.css",
+    "main.js": "/pokespec/static/js/main.2a75f480.js",
     "static/js/8335.877435c2.chunk.js": "/pokespec/static/js/8335.877435c2.chunk.js",
     "static/js/4640.8734061a.chunk.js": "/pokespec/static/js/4640.8734061a.chunk.js",
     "static/js/9102.92701e7d.chunk.js": "/pokespec/static/js/9102.92701e7d.chunk.js",
@@ -84,7 +84,8 @@
     "static/media/1-waters-edge-habitat.jpg": "/pokespec/static/media/1-waters-edge-habitat.ff592dd9bbba54d487a8.jpg",
     "static/media/urban-habitat.jpg": "/pokespec/static/media/urban-habitat.1284a088c01431fae7ac.jpg",
     "static/media/ocean-habitat.jpg": "/pokespec/static/media/ocean-habitat.07e87083fd751aa8a957.jpg",
-    "static/media/not-found.png": "/pokespec/static/media/not-found.482f932413777c94f332.png",
+    "static/media/not-found.png": "/pokespec/static/media/not-found.184c8a7f951e0768305b.png",
+    "static/media/not-found-pikachu.png": "/pokespec/static/media/not-found-pikachu.dba7859995a47e366312.png",
     "static/media/pokemon-logo.png": "/pokespec/static/media/pokemon-logo.9dc16171f2cf9c91f9c2.png",
     "static/media/legendary.png": "/pokespec/static/media/legendary.675608e448819d60d8e0.png",
     "static/media/alola.png": "/pokespec/static/media/alola.cb4ff02ed372fcd16380.png",
@@ -107,11 +108,11 @@
     "static/media/dark.jpg": "/pokespec/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokespec/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokespec/index.html",
-    "main.ce9ac750.css.map": "/pokespec/static/css/main.ce9ac750.css.map",
-    "main.eaf340c3.js.map": "/pokespec/static/js/main.eaf340c3.js.map"
+    "main.99d218cb.css.map": "/pokespec/static/css/main.99d218cb.css.map",
+    "main.2a75f480.js.map": "/pokespec/static/js/main.2a75f480.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce9ac750.css",
-    "static/js/main.eaf340c3.js"
+    "static/css/main.99d218cb.css",
+    "static/js/main.2a75f480.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokespec/static/css/main.de0334e0.css",
-    "main.js": "/pokespec/static/js/main.743759ca.js",
+    "main.css": "/pokespec/static/css/main.4db9a833.css",
+    "main.js": "/pokespec/static/js/main.d2dd99e1.js",
     "static/js/8335.877435c2.chunk.js": "/pokespec/static/js/8335.877435c2.chunk.js",
     "static/js/4640.8734061a.chunk.js": "/pokespec/static/js/4640.8734061a.chunk.js",
     "static/js/9102.92701e7d.chunk.js": "/pokespec/static/js/9102.92701e7d.chunk.js",
@@ -109,11 +109,11 @@
     "static/media/dark.jpg": "/pokespec/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokespec/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokespec/index.html",
-    "main.de0334e0.css.map": "/pokespec/static/css/main.de0334e0.css.map",
-    "main.743759ca.js.map": "/pokespec/static/js/main.743759ca.js.map"
+    "main.4db9a833.css.map": "/pokespec/static/css/main.4db9a833.css.map",
+    "main.d2dd99e1.js.map": "/pokespec/static/js/main.d2dd99e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0334e0.css",
-    "static/js/main.743759ca.js"
+    "static/css/main.4db9a833.css",
+    "static/js/main.d2dd99e1.js"
   ]
 }

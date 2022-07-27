@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokespec/static/css/main.99d218cb.css",
-    "main.js": "/pokespec/static/js/main.2a75f480.js",
+    "main.css": "/pokespec/static/css/main.de0334e0.css",
+    "main.js": "/pokespec/static/js/main.743759ca.js",
     "static/js/8335.877435c2.chunk.js": "/pokespec/static/js/8335.877435c2.chunk.js",
     "static/js/4640.8734061a.chunk.js": "/pokespec/static/js/4640.8734061a.chunk.js",
     "static/js/9102.92701e7d.chunk.js": "/pokespec/static/js/9102.92701e7d.chunk.js",
@@ -96,6 +96,7 @@
     "static/media/dragon.jpg": "/pokespec/static/media/dragon.0ecee103fac3c69b0c0c.jpg",
     "static/media/fighting.jpg": "/pokespec/static/media/fighting.781e480efe173d5d98df.jpg",
     "static/media/bug.jpg": "/pokespec/static/media/bug.8e3e821b3139a3e7576f.jpg",
+    "static/media/AznUnifiedOblique-ZV5gz.otf": "/pokespec/static/media/AznUnifiedOblique-ZV5gz.10feb67697496effd6ae.otf",
     "static/media/water.jpg": "/pokespec/static/media/water.8cdcd2fffd5326357ac2.jpg",
     "static/media/normal.jpg": "/pokespec/static/media/normal.9ec833ab366a840555f2.jpg",
     "static/media/pokeapi-logo.png": "/pokespec/static/media/pokeapi-logo.888baca4809420be1126.png",
@@ -108,11 +109,11 @@
     "static/media/dark.jpg": "/pokespec/static/media/dark.ab3006658828e87d52b4.jpg",
     "static/media/grass.jpg": "/pokespec/static/media/grass.31e176799dfb7f34aa90.jpg",
     "index.html": "/pokespec/index.html",
-    "main.99d218cb.css.map": "/pokespec/static/css/main.99d218cb.css.map",
-    "main.2a75f480.js.map": "/pokespec/static/js/main.2a75f480.js.map"
+    "main.de0334e0.css.map": "/pokespec/static/css/main.de0334e0.css.map",
+    "main.743759ca.js.map": "/pokespec/static/js/main.743759ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.99d218cb.css",
-    "static/js/main.2a75f480.js"
+    "static/css/main.de0334e0.css",
+    "static/js/main.743759ca.js"
   ]
 }
